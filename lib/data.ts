@@ -62,24 +62,24 @@ export const experiencesData = [
 
 export const projectsData = [
   {
-    title: "CorpComment",
+    title: "NeuTrack",
     description:
-      "I worked as a full-stack developer on this startup project for 2 years. Users can give public feedback to companies.",
-    tags: ["React", "Next.js", "MongoDB", "Tailwind", "Prisma"],
+      "I worked as the Raspberry Pi programmer, web and mobile app developer. NeuTrack is an integrated system in the form of a wearable product used to help visually impaired and Alzheimer's to live their life more independently and safely.",
+    tags: ["Raspberry Pi", "Python", "Google API", "Flask", "HTML", "CSS", "Flutter", "Gemini AI",],
     imageUrl: corpcommentImg,
   },
   {
-    title: "rmtDev",
+    title: "ToolBeng",
     description:
-      "Job board for remote developer jobs. I was the front-end developer. It has features like filtering, sorting and pagination.",
-    tags: ["React", "TypeScript", "Next.js", "Tailwind", "Redux"],
+      "I had the role as a front end developer in the team.",
+    tags: ["React", "TypeScript", "Next.js", "Tailwind"],
     imageUrl: rmtdevImg,
   },
   {
-    title: "Word Analytics",
+    title: "Playourette",
     description:
-      "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
-    tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
+      "Playourette is an iOS personal financial management app made to help users especially teenagers to maintain their financial situation more independently based on 50/30/20 rule.",
+    tags: ["Swift", "Firebase"],
     imageUrl: wordanalyticsImg,
   },
 ] as const;
@@ -94,14 +94,6 @@ export const skillsData = [
   "Node.js",
   "Git",
   "Tailwind",
-  "Prisma",
   "MongoDB",
-  "Redux",
-  "GraphQL",
-  "Apollo",
-  "Express",
-  "PostgreSQL",
   "Python",
-  "Django",
-  "Framer Motion",
 ] as const;
