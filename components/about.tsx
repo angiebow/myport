@@ -19,7 +19,11 @@ export default function About() {
     >
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
-        About me.
+        I am a computer science student who is deeply passionate about exploring the intersection of technology and global
+problem-solving. My primary interests lie in artificial intelligence that address real-world challenges and contribute to
+achieving Sustainable Development Goals (SDGs). To further enrich my knowledge and broaden my horizons, I love to
+collaborate with fellow innovative minds, exchange ideas, and hone both my problem solving and communication skills in
+global scale.
       </p>
     </motion.section>
   );
