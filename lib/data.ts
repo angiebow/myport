@@ -65,6 +65,21 @@ export const experiencesData = [
       "I created contents for the official Instagram account of IAC using Adobe Illustrator.",
     icon: React.createElement(FaReact),
     date: "2023",
+  {
+    title: "ITS Archery - External Staff",
+    location: "Surabaya, Indonesia",
+    description:
+      "I created contents for the official Instagram account of Archery using Adobe Illustrator as well as updating live reports.",
+    icon: React.createElement(FaReact),
+    date: "2023",
+  },
+  {
+    title: "Schematics 2023 - National Programming Contest (NPC) Staff",
+    location: "Surabaya, Indonesia",
+    description:
+      "One of the problem setters.",
+    icon: React.createElement(FaReact),
+    date: "2023",
   },
 ] as const;
 
