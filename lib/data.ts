@@ -59,12 +59,12 @@ export const experiencesData = [
     date: "2022",
   },
   {
-    title: "Apple Developer Academy Foundation Program",
+    title: "ITS Astronomy Club - Medfo Staff",
     location: "Surabaya, Indonesia",
     description:
-      "I developed a personal financial management iOS app.",
+      "I created contents for the official Instagram account of IAC using Adobe Illustrator.",
     icon: React.createElement(FaReact),
-    date: "2022",
+    date: "2023",
   },
 ] as const;
 
