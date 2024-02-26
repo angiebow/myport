@@ -51,6 +51,14 @@ export const experiencesData = [
     date: "2023",
   },
   {
+    title: "U-International Program ",
+    location: "Surabaya, Indonesia",
+    description:
+      "UTM and ITS collaborated to held this event where we can enhance leadership by doing volunteering in the form of teaching kids English and cleaning up the mangrove area as well as conducting 2 leadership forums for us to discuss other campuses in Surabaya about leadership together with Malaysian students.",
+    icon: React.createElement(CgWorkAlt),
+    date: "2023",
+  },
+  {
     title: "Apple Developer Academy Foundation Program",
     location: "Surabaya, Indonesia",
     description:
